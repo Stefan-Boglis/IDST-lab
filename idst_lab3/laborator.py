@@ -1,3 +1,4 @@
+#am uitat sa dau commit atunci cand am adaugat aici copyright notice asa ca bag acum ceva sa am la ce sa dau commit
 #!./.venv/bin/python
 import discord      # base discord module
 import code         # code.interact
